@@ -39,7 +39,7 @@ Funcionamento do trabalho
 
 O funcionamento do sistema envolve a execução do servidor, que aguarda chamadas remotas da função calcular_no_servidor feitas pelo cliente. O cliente especifica o tipo de operação (X), e os valores (Y e Z) necessários para o cálculo. O servidor recebe esses parâmetros, executa a operação correspondente na função calcular_funcao e retorna o resultado ao cliente.
 
-![Texto Descrição gerada automaticamente](media/ef32d5ae9046b5fac1b871727ab43f96.png)![Texto Descrição gerada automaticamente](media/8facc844df81224cf5c90dbc095abe01.png)
+![Texto Descrição gerada automaticamente](https://github.com/Davidbenone/Aluno_2023-24_SD_Cib_1707810/blob/main/Imagens/1.png)![Texto Descrição gerada automaticamente](media/8facc844df81224cf5c90dbc095abe01.png)
 
 ## Conclusão
 
