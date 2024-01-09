@@ -28,7 +28,7 @@ Sumário
 
 ## Descrição do Trabalho
 
-![Diagrama Descrição gerada automaticamente](media/05124f67baf8a5da4b4a3c7587ca92c1.png)O projeto consiste na implementação de uma arquitetura cliente-servidor com um modelo RPC (Remote Procedure Call). O servidor oferece uma função como serviço, calcular_funcao, capaz de realizar cálculos específicos baseados em parâmetros fornecidos pelo cliente. A função pode executar operações como exponenciação ou logaritmo, dependendo do valor de X, que é enviado pelo cliente. A comunicação entre o cliente e o servidor é facilitada pela biblioteca xmlrpc do Python.
+![Diagrama Descrição gerada automaticamente](https://github.com/Davidbenone/Aluno_2023-24_SD_Cib_1707810/blob/main/Imagens/modelo.png)O projeto consiste na implementação de uma arquitetura cliente-servidor com um modelo RPC (Remote Procedure Call). O servidor oferece uma função como serviço, calcular_funcao, capaz de realizar cálculos específicos baseados em parâmetros fornecidos pelo cliente. A função pode executar operações como exponenciação ou logaritmo, dependendo do valor de X, que é enviado pelo cliente. A comunicação entre o cliente e o servidor é facilitada pela biblioteca xmlrpc do Python.
 
 **Implementação do Trabalho**
 
