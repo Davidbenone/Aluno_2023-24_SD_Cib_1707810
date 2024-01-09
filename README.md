@@ -1,4 +1,4 @@
-![Uma imagem contendo Texto Descrição gerada automaticamente](media/800c7b2964da45253c38d5c028baa56e.png)
+![Uma imagem contendo Texto Descrição gerada automaticamente](https://github.com/Davidbenone/Aluno_2023-24_SD_Cib_1707810/blob/main/Imagens/logo.png)
 [Texto Alternativo](./Imagens/logo.png)
 
 Relatório do Trabalho prático
