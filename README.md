@@ -1,4 +1,5 @@
 ![Uma imagem contendo Texto Descrição gerada automaticamente](media/800c7b2964da45253c38d5c028baa56e.png)
+[Texto Alternativo](/Imagens/logo.png)
 
 Relatório do Trabalho prático
 
