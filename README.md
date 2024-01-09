@@ -34,7 +34,7 @@ Sumário
 
 A implementação do trabalho está organizada em dois principais componentes: o servidor (server.py) e o cliente (client.py). O servidor utiliza a biblioteca xmlrpc para criar um servidor RPC, enquanto o cliente se comunica remotamente com o servidor para realizar cálculos específicos. O código é modular e segue as melhores práticas de organização.
 
-![Texto Descrição gerada automaticamente](media/48579bee1cbd4119e5eed3d5eb5e9086.png)![Texto Descrição gerada automaticamente](media/9cf89ebf374d6d84f80a24cab6e1e171.png)  
+![Texto Descrição gerada automaticamente](https://github.com/Davidbenone/Aluno_2023-24_SD_Cib_1707810/blob/main/Imagens/1.1.png)![Texto Descrição gerada automaticamente](media/9cf89ebf374d6d84f80a24cab6e1e171.png)  
 Funcionamento do trabalho
 
 O funcionamento do sistema envolve a execução do servidor, que aguarda chamadas remotas da função calcular_no_servidor feitas pelo cliente. O cliente especifica o tipo de operação (X), e os valores (Y e Z) necessários para o cálculo. O servidor recebe esses parâmetros, executa a operação correspondente na função calcular_funcao e retorna o resultado ao cliente.
