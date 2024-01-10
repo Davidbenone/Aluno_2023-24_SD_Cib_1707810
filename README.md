@@ -43,7 +43,7 @@ O funcionamento do sistema envolve a execução do servidor, que aguarda chamada
 
 ## Conclusão
 
-O funcionamento do sistema envolve a execução do servidor, que aguarda chamadas remotas da função calcular_no_servidor feitas pelo cliente. O cliente especifica o tipo de operação (X), e os valores (Y e Z) necessários para o cálculo. O servidor recebe esses parâmetros, executa a operação correspondente na função calcular_funcao e retorna o resultado ao cliente.
+A implementação eficiente da arquitetura cliente-servidor com RPC usando xmlrpc em Python demonstra a capacidade de criar sistemas distribuídos modularizados. A separação de responsabilidades entre servidor e cliente, junto com a comunicação remota, resulta em um serviço flexível de cálculos. A abordagem RPC simplifica a interação entre os componentes, e o uso da biblioteca padrão xmlrpc contribui para a robustez e eficiência. Em resumo, este projeto valida a praticidade e utilidade da arquitetura RPC para aplicações distribuídas.
 
 Bibliografia
 
