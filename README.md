@@ -6,12 +6,6 @@ Sistemas Distribuídos
 
 Servidor RPC calcular e retornar o seu valor
 
-Aluno: David Sávio Benone Sabbá De Lima
-
-Número: 1707810
-
-GitHub: https://github.com/Davidbenone/Aluno_2023-24_SD_Cib_1707810
-
 Email: davidbenone08@gmail.com
 
 Sumário
